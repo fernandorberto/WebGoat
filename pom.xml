@@ -136,6 +136,7 @@
         <maven-surefire-plugin.version>3.0.0-M4</maven-surefire-plugin.version>
         <revision>v8.2.0-SNAPSHOT</revision>
 	    
+	<!-- Sonar properties-->    
 	<sonar.projectKey>fernandorberto_WebGoat</sonar.projectKey>
 	<sonar.moduleKey>${artifactId}</sonar.moduleKey>
         <sonar.organization>fernandorberto</sonar.organization>
